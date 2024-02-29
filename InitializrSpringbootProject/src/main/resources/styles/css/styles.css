@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #343a40 !important;
+}
+
+.main {
+    background-color: #343a40;
+    color: #fff;
+    padding: 2rem;
+    margin-bottom: 0;
+}
+
+.book-card {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.25rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.contact-form {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.25rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.iframe{
+    text-align: center;
+    margin: auto;
+}
+
